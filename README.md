@@ -1,5 +1,5 @@
 <h1 align="center">
-    <tt>> GrowLocal-Work</tt>
+    <tt>> GrowLocal</tt>
 </h1>
 
 <h2>
