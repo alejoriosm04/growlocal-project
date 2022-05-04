@@ -47,7 +47,7 @@ public class RegistroPropietario extends javax.swing.JFrame {
         });
 
         labelGetWorkPropietario.setFont(new java.awt.Font("Segoe UI Black", 1, 48)); // NOI18N
-        labelGetWorkPropietario.setText("Get-Work");
+        labelGetWorkPropietario.setText("GrowLocal");
 
         labelNombreNegocio.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
         labelNombreNegocio.setText("Nombre Negocio");
@@ -66,7 +66,7 @@ public class RegistroPropietario extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addContainerGap(74, Short.MAX_VALUE)
+                .addContainerGap(55, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                     .addComponent(buttonFinalizarPropietario, javax.swing.GroupLayout.PREFERRED_SIZE, 119, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

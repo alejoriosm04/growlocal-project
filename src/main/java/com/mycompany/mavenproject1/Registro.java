@@ -46,7 +46,7 @@ public class Registro extends javax.swing.JFrame {
         setBackground(new java.awt.Color(255, 255, 255));
 
         labelGetWorkRegistro.setFont(new java.awt.Font("Segoe UI Black", 1, 48)); // NOI18N
-        labelGetWorkRegistro.setText("Get-Work");
+        labelGetWorkRegistro.setText("GrowLocal");
 
         labelname.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         labelname.setText("Nombre");
@@ -75,7 +75,7 @@ public class Registro extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addContainerGap(69, Short.MAX_VALUE)
+                .addContainerGap(50, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                         .addComponent(labelPassword)

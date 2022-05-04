@@ -47,7 +47,7 @@ public class Screen extends javax.swing.JFrame {
         topPanel.setBackground(new java.awt.Color(255, 255, 255));
 
         labelGetWork.setFont(new java.awt.Font("Segoe UI Black", 0, 36)); // NOI18N
-        labelGetWork.setText("Get-Work");
+        labelGetWork.setText("GrowLocal");
         labelGetWork.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
 
         javax.swing.GroupLayout topPanelLayout = new javax.swing.GroupLayout(topPanel);
@@ -55,7 +55,7 @@ public class Screen extends javax.swing.JFrame {
         topPanelLayout.setHorizontalGroup(
             topPanelLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, topPanelLayout.createSequentialGroup()
-                .addContainerGap(97, Short.MAX_VALUE)
+                .addContainerGap(85, Short.MAX_VALUE)
                 .addComponent(labelGetWork)
                 .addGap(108, 108, 108))
         );
@@ -100,7 +100,7 @@ public class Screen extends javax.swing.JFrame {
 
         buttonRegistro.setBackground(new java.awt.Color(204, 204, 204));
         buttonRegistro.setFont(new java.awt.Font("SansSerif", 1, 12)); // NOI18N
-        buttonRegistro.setText("HAZ PARTE DE GET-WORK!");
+        buttonRegistro.setText("HAZ PARTE DE GROWLOCAL!");
         buttonRegistro.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 buttonRegistroActionPerformed(evt);

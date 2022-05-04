@@ -34,7 +34,7 @@ public class UsuariosRegistrados extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         labelGetWorkUsuariosRegistrados.setFont(new java.awt.Font("Segoe UI Black", 1, 48)); // NOI18N
-        labelGetWorkUsuariosRegistrados.setText("Get-Work");
+        labelGetWorkUsuariosRegistrados.setText("GrowLocal");
 
         listUsuarios.setModel(new javax.swing.AbstractListModel<String>() {
             String[] strings = { "Simón Micaela", "Juliana Jonás", "Herminio Alonso", "Bautista Úrsula", "Marcela Londoño", "Cristian Cardenas", "Alejandro Rios" };
@@ -60,7 +60,7 @@ public class UsuariosRegistrados extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addContainerGap(70, Short.MAX_VALUE)
+                .addContainerGap(51, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                     .addComponent(buttonPantallaPrincipal)
                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING, false)

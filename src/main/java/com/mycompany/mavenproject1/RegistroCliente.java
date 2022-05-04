@@ -34,7 +34,7 @@ public class RegistroCliente extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         labelGetWorkCliente.setFont(new java.awt.Font("Segoe UI Black", 1, 48)); // NOI18N
-        labelGetWorkCliente.setText("Get-Work");
+        labelGetWorkCliente.setText("GrowLocal");
 
         labelInteres.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         labelInteres.setText("Interes");
@@ -51,7 +51,7 @@ public class RegistroCliente extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addContainerGap(74, Short.MAX_VALUE)
+                .addContainerGap(55, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
                     .addComponent(buttonFinalizarCliente, javax.swing.GroupLayout.PREFERRED_SIZE, 119, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

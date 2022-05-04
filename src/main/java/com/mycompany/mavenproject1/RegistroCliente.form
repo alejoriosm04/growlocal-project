@@ -24,7 +24,7 @@
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="1" attributes="0">
-              <EmptySpace pref="74" max="32767" attributes="0"/>
+              <EmptySpace pref="55" max="32767" attributes="0"/>
               <Group type="103" groupAlignment="1" attributes="0">
                   <Component id="buttonFinalizarCliente" min="-2" pref="119" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
@@ -59,7 +59,7 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Segoe UI Black" size="48" style="1"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Get-Work"/>
+        <Property name="text" type="java.lang.String" value="GrowLocal"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="labelInteres">

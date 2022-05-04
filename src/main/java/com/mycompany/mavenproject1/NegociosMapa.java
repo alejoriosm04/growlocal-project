@@ -25,7 +25,7 @@ public class NegociosMapa extends javax.swing.JFrame {
      */
     public NegociosMapa() throws IOException {
         initComponents();
-        JFrame test = new JFrame("Get-Work Maps");
+        JFrame test = new JFrame("GrowLocal Maps");
 
         try {
             String imageUrl = "https://i.imgur.com/eBLyAbn.png";
