@@ -1,5 +1,5 @@
 <h1 align="center">
-    <tt>> Get-Work</tt>
+    <tt>> GrowLocal-Work</tt>
 </h1>
 
 <h2>
@@ -13,7 +13,7 @@
 </ul>
 
 <p>
-    Get-Work es una aplicación desarrollada en Java Swing para apoyar los pequeños y medianos negocios. Buscamos mejorar el panorama actual del país en temas de empleo y economía. Somos una comunidad que unidad puede hacer conocer la tienda de barrio de la esquina de tu casa hasta las startups emergentes de tu ciudad.
+    GrowLocal es una aplicación desarrollada en Java Swing para apoyar los pequeños y medianos negocios. Buscamos mejorar el panorama actual del país en temas de empleo y economía. Somos una comunidad que unidad puede hacer conocer la tienda de barrio de la esquina de tu casa hasta las startups emergentes de tu ciudad.
 </p>
 
 <h2>
@@ -21,7 +21,7 @@
 </h2> 
 
 <p>
-    La aplicación fue desarrollada en un entorno gráfico de Java, llamado Java Swing. En la pantalla de inicio encontrarás las distintas opciones para comenzar tu experiencia en Get-Work.
+    La aplicación fue desarrollada en un entorno gráfico de Java, llamado Java Swing. En la pantalla de inicio encontrarás las distintas opciones para comenzar tu experiencia en GrowLocal.
 </p>
 
 <h3>
@@ -34,7 +34,7 @@
     Mapa de Negocios
 </h3>
 <p>
-    En esta sección encontrarás un mapa de la región donde Get-Work se encuentra en funcionamiento. Allí, podrás ver los distintos negocios de nuestra app. El mapa hace parte de una API de Google Maps.
+    En esta sección encontrarás un mapa de la región donde GrowLocal se encuentra en funcionamiento. Allí, podrás ver los distintos negocios de nuestra app. El mapa hace parte de una API de Google Maps.
 </p>
 <h3>
     Comunidad
