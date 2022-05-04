@@ -51,6 +51,9 @@
 <p>
     Lastimosamente, Java Swing ofrece un entorno de desarrollo muy antiguo y alejado de los estandares actuales de desarrollo. La aplicación puede ser exportada desde NetBeans como un archivo <code>.jar</code>. Se requiere de tener un entorno de desarrollo <code>Java</code> para correr la aplicación. A proyección, también hace parte modificar la aplicación para que pueda ser exportada en formato <code>.exe</code>. A continuación se encontrará un link para descargar el archivo <code>.jar</code>, tener en cuenta, lo anteriormente mencionado.
 </p>
+<p>
+    El código fuente principal del proyecto, se encuentra <a href="https://github.com/alejoriosm04/get-work-project/tree/main/src/main/java/com/mycompany/mavenproject1">aquí</a>. Allí podrás revisar la estructura del proyecto implementada con Java Swing.
+</p>
 <h2>
     Desarrolladores - Contribuir
 </h2>
