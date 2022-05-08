@@ -58,7 +58,7 @@
     Desarrolladores - Contribuir
 </h2>
 <p>
-    Este proyecto fue desarrollado desde todas sus etapas de Desarrollo e Implementación en Software por <a href="https://github.com/alejoriosm04">Alejandro Ríos</a>, <a href="https://github.com/mlondono13">Marcela Londoño</a> y <a href="">Cristian Cardenas</a>.
+    Este proyecto fue desarrollado desde todas sus etapas de Desarrollo e Implementación en Software por <a href="https://github.com/alejoriosm04">Alejandro Ríos</a>, <a href="https://github.com/mlondono13">Marcela Londoño</a> y <a href="https://github.com/Crissitx">Cristian Cardenas</a>.
 </p>
 <p>
     No dudes en realizar un <code>fork</code> a este proyecto para colaborar y realizar un <code>pull request</code>. Le echaremos un vistazo.
