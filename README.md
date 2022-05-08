@@ -45,11 +45,14 @@
 <p>
     Por ahora, la aplicación no tiene una base de datos para almacenar los datos permanentemente. A futuro, se evaluan opciones para almacenar los datos de los usuarios de forma permanente.
 </p>
+<img src="https://i.imgur.com/JHExP0u.jpg" style="height: 400px;"/>
+<img src="https://i.imgur.com/ihVlV6P.jpg" style="height: 400px;"/>
+<img src="https://i.imgur.com/Bjt9XxZ.jpg" style="height: 400px;"/>
 <h2>
     ¿Cómo probarlo?
 </h2>
 <p>
-    Lastimosamente, Java Swing ofrece un entorno de desarrollo muy antiguo y alejado de los estandares actuales de desarrollo. La aplicación puede ser exportada desde NetBeans como un archivo <code>.jar</code>. Se requiere de tener un entorno de desarrollo <code>Java</code> para correr la aplicación. A proyección, también hace parte modificar la aplicación para que pueda ser exportada en formato <code>.exe</code>. A continuación se encontrará un link para descargar el archivo <code>.jar</code>, tener en cuenta, lo anteriormente mencionado.
+    Lastimosamente, Java Swing ofrece un entorno de desarrollo muy antiguo y alejado de los estandares actuales de desarrollo. La aplicación puede ser exportada desde NetBeans como un archivo <code>.jar</code>. Se requiere de tener un entorno de desarrollo <code>Java</code> para correr la aplicación. A proyección, también hace parte modificar la aplicación para que pueda ser exportada en formato <code>.exe</code>. Encontrarás en Github un release de nuestra App, podrás descargar el archivo <code>.jar</code> y el código fuente comprimido para descargar.
 </p>
 <p>
     El código fuente principal del proyecto, se encuentra <a href="https://github.com/alejoriosm04/get-work-project/tree/main/src/main/java/com/mycompany/mavenproject1">aquí</a>. Allí podrás revisar la estructura del proyecto implementada con Java Swing.
@@ -58,7 +61,7 @@
     Desarrolladores - Contribuir
 </h2>
 <p>
-    Este proyecto fue desarrollado desde todas sus etapas de Desarrollo e Implementación en Software por <a href="https://github.com/alejoriosm04">Alejandro Ríos</a>, <a href="https://github.com/mlondono13">Marcela Londoño</a> y <a href="https://github.com/Crissitx">Cristian Cardenas</a>.
+    Este proyecto fue desarrollado desde todas sus etapas de Desarrollo e Implementación en Software por <a href="https://github.com/alejoriosm04">Alejandro Ríos</a>, <a href="https://github.com/mlondono13">Marcela Londoño</a> y <a href="">Cristian Cardenas</a>.
 </p>
 <p>
     No dudes en realizar un <code>fork</code> a este proyecto para colaborar y realizar un <code>pull request</code>. Le echaremos un vistazo.
