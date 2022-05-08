@@ -45,9 +45,17 @@
 <p>
     Por ahora, la aplicación no tiene una base de datos para almacenar los datos permanentemente. A futuro, se evaluan opciones para almacenar los datos de los usuarios de forma permanente.
 </p>
-<img src="https://i.imgur.com/JHExP0u.jpg" style="height: 400px;"/>
-<img src="https://i.imgur.com/ihVlV6P.jpg" style="height: 400px;"/>
-<img src="https://i.imgur.com/Bjt9XxZ.jpg" style="height: 400px;"/>
+<tr>
+    <td>
+        <img src="https://i.imgur.com/JHExP0u.jpg" style="height: 400px;"/>
+    </td>
+    <td>
+        <img src="https://i.imgur.com/ihVlV6P.jpg" style="height: 400px;"/>
+    </td>
+    <td>
+        <img src="https://i.imgur.com/Bjt9XxZ.jpg" style="height: 400px;"/>
+    </td>
+</tr>
 <h2>
     ¿Cómo probarlo?
 </h2>
